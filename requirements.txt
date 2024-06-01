@@ -1,0 +1,17 @@
+PyYAML
+lark-parser
+pypng
+colorama
+ninja_syntax
+msgpack
+pylibyaml
+tqdm
+spimdisasm
+pygfxd
+intervaltree
+rabbitizer
+n64img
+python-githooks
+crunch64>=0.2.0
+splat64>=0.22.0
+requests
